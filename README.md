@@ -1,6 +1,6 @@
 ## Welcome!!!
 
-I'm Ayveren, software engineer :)
+I'm Ayveren, software engineer :D
 
 ### Bye!
 
